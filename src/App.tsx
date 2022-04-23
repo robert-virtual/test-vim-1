@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h2>Hola mundo</h2>
+      <h2>Notes App - With Vim</h2>
     </div>
   );
 }
